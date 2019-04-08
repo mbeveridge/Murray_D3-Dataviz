@@ -4,27 +4,32 @@
 
 ---
 
-| x | y |
+[Page xiv] [Web page for this book](http://shop.oreilly.com/product/0636920037316.do), including [errata](https://www.oreilly.com/catalog/errata.csp?isbn=0636920037316)
+
+[Page xiv] [Companion website](https://alignedleft.com/work/d3-book-2e)
+
+
+| Directory or file (in root) | Explanation |
 | --- | --- |
-| d3/ | directory that is xxxxx|
-|d3-book-2.0.3/ | xxx |
-|d3.js | xxx |
+| d3/ | [Chapter4] Latest version (5.9.2) of d3.js, from [https://d3js.org](https://d3js.org) |
+|d3-book-2.0.3/ | [Chapter1] Latest version (2.0.3) of sample files, from [the GitHub releases page](https://github.com/alignedleft/d3-book/releases) |
+|d3.js | [Chapter4] Library actually being used, copy of a file in `d3/` |
 | index.html | xxx |
-| README.md | xxx |
+| README.md | This document |
 
 ---
 
-01 Introduction
+01 Introduction [P.1-6]
 
-02 Intoducing D3
+02 Introducing D3 [P.7-16] ...[*P.11-16 Other libraries*]
 
-03 Technology Fundamentals
+03 Technology Fundamentals [P.17-62] ...[P37-42 Objects & Arrays : to read]
 
-04 Setup
+04 Setup [P.63-66] ...[*P.65 Set up a web server (type in Terminal) : `python -m http.server 8888 &.`*]
 
-05 Data
+05 Data [P.67-86] ...[P73-78 Loading CSV & JSON : to read ...but Errata says this method doesn't work for v5 D3]
 
-06
+06 Drawing with Data [P.89-115]
 
 07
 
