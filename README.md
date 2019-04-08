@@ -27,7 +27,16 @@
 
 04 Setup [P.63-66] ...[*P.65 Set up a web server (type in Terminal) : `python -m http.server 8888 &.`*]
 
-05 Data [P.67-86] ...[P73-78 Loading CSV & JSON : to read ...but Errata says this method doesn't work for v5 D3]
+05 Data [P.67-87] ...[P73-78 Loading CSV & JSON : to read ...but Errata says this method doesn't work for v5 D3]
+
+* P.67 `01_empty_page_template.html`
+* P.70 `02_new_element.html`
+* P.74 `03_csv_loading_example.html`
+* P.79 `04_creating_paragraphs.html`
+* P.84 `05_creating_paragraphs_text.html`
+* P.85 `06_creating_paragraphs_counting.html`
+* P.86 `07_creating_paragraphs_with_style.html`
+* P.87 `08_creating_paragraphs_with_style_functions.html`
 
 06 Drawing with Data [P.89-115]
 
