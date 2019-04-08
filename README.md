@@ -1,6 +1,18 @@
 # Interactive Data Visualization for the Web
-## An Introduction to Designing with D3
-### Scott Murray
+#### An Introduction to Designing with D3
+###### Scott Murray
+
+---
+
+| x | y |
+| --- | --- |
+| d3/ | directory that is xxxxx|
+|d3-book-2.0.3/ | xxx |
+|d3.js | xxx |
+| index.html | xxx |
+| README.md | xxx |
+
+---
 
 01 Introduction
 
