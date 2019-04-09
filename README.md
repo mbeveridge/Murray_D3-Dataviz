@@ -40,6 +40,7 @@
 * P.86 `07_creating_paragraphs_with_style.html`
 * P.87 `08_creating_paragraphs_with_style_functions.html`
 
+
 **06 Drawing with Data** [P.89-115]
 
 * P.91 `01_drawing_divs.html`
@@ -67,7 +68,19 @@
 * P.113 `23_scatterplot_sqrt.html`
 * P.115 `24_scatterplot_labels.html`
 
+
 **07 Scales** [P.117-134]
+
+* `01_scale_test.html`
+* `02_scaled_plot.html`
+* `03_scaled_plot_inverted.html`
+* `04_scaled_plot_padding.html`
+* `05_scaled_plot_radii.html`
+* `06_scaled_plot_big.html`
+* `07_scaled_plot_large.html`
+* `08_scaled_plot_sqrt_scale.html`
+* `09_time_scale.html`
+
 
 08
 
