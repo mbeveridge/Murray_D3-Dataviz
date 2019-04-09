@@ -32,10 +32,10 @@
 **05 Data** [P.67-87] ...[**P73-78 Loading CSV & JSON : to read** ...but Errata says this method doesn't work for v5 D3]
 
 * P.67 `01_empty_page_template.html`
-* P.70 `02_new_element.html`
+* P.70 `02_new_element.html` ...*step through code*
 * P.74 `03_csv_loading_example.html`
-* P.79 `04_creating_paragraphs.html`
-* P.84 `05_creating_paragraphs_text.html`
+* P.79 `04_creating_paragraphs.html` ...*step through code*
+* P.84 `05_creating_paragraphs_text.html` ...*anonymous function*
 * P.85 `06_creating_paragraphs_counting.html`
 * P.86 `07_creating_paragraphs_with_style.html`
 * P.87 `08_creating_paragraphs_with_style_functions.html`
@@ -47,14 +47,14 @@
 * P.93 `03_drawing_divs_spaced.html`
 * P.93 `04_power_of_data.html`
 * P.93 `05_power_of_data_more_points.html`
-* P.94 `06_power_of_data_random.html`
+* P.94 `06_power_of_data_random.html` ...*(step through code)*
 * P.97 `07_power_of_data_rounded.html`
 * P.98 `08_drawing_svgs.html`
 * P.98 `09_drawing_svgs_size.html`
-* P.99 `10_drawing_svgs_circles.html`
+* P.99 `10_drawing_svgs_circles.html` ...*step through code*
 * P.100 `11_drawing_svgs_color.html`
 * P.101 `12_making_a_bar_chart_divs.html`
-* P.102 `13_making_a_bar_chart_rects.html`
+* P.102 `13_making_a_bar_chart_rects.html` ...*using SVG instead of div*
 * P.103 `14_making_a_bar_chart_offset.html`
 * P.104 `15_making_a_bar_chart_even.html`
 * P.104 `16_making_a_bar_chart_widths.html`
