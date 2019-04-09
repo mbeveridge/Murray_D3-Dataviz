@@ -4,18 +4,18 @@
 
 ---
 
-[Page xiv] [Web page for this book](http://shop.oreilly.com/product/0636920037316.do), including [errata](https://www.oreilly.com/catalog/errata.csp?isbn=0636920037316)
+[Page xiv] Publisher's [web page for this book](http://shop.oreilly.com/product/0636920037316.do), including [errata](https://www.oreilly.com/catalog/errata.csp?isbn=0636920037316)
 
-[Page xiv] [Companion website](https://alignedleft.com/work/d3-book-2e)
+[Page xiv] Author's [companion website](https://alignedleft.com/work/d3-book-2e)
 
-[Chapter4] [localhost:8888](http://localhost:8888/d3-book-2.0.3/) link for me (to sample files), when local web server running
+[Chapter4] [localhost:8888](http://localhost:8888/d3-book-2.0.3/) link (to sample files) for me, when local web server is running
 
 
 | Directory or file (in root) | Explanation |
 | --- | --- |
 | d3/ | [Chapter4] Latest version (5.9.2) of d3.js, from [https://d3js.org](https://d3js.org) |
 |d3-book-2.0.3/ | [Chapter1] Latest version (2.0.3) of sample files, from [the GitHub releases page](https://github.com/alignedleft/d3-book/releases) |
-|d3.js | [Chapter4] Library actually being used, copy of a file in `d3/` |
+|d3.js | [Chapter4] Library actually being used. Copy of a file in `d3/` |
 | index.html | [Chapter4] Empty document |
 | README.md | This document |
 
