@@ -67,7 +67,7 @@
 * P.113 `23_scatterplot_sqrt.html`
 * P.115 `24_scatterplot_labels.html`
 
-07
+**07 Scales** [P.117-134]
 
 08
 
