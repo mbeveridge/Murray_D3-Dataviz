@@ -65,21 +65,21 @@
 * P.109 `20_making_a_bar_chart_labels.html`
 * P.110 `21_making_a_bar_chart_aligned.html`
 * P.111 `22_scatterplot.html`
-* P.113 `23_scatterplot_sqrt.html`
+* P.113 `23_scatterplot_sqrt.html` ...*encoding the values as area*
 * P.115 `24_scatterplot_labels.html`
 
 
 **07 Scales** [P.117-134]
 
-* `01_scale_test.html`
-* `02_scaled_plot.html`
-* `03_scaled_plot_inverted.html`
-* `04_scaled_plot_padding.html`
-* `05_scaled_plot_radii.html`
-* `06_scaled_plot_big.html`
-* `07_scaled_plot_large.html`
-* `08_scaled_plot_sqrt_scale.html`
-* `09_time_scale.html`
+* P.119 `01_scale_test.html`
+* P.123 `02_scaled_plot.html`
+* P.123 `03_scaled_plot_inverted.html`
+* P.125 `04_scaled_plot_padding.html`
+* P.125 `05_scaled_plot_radii.html`
+* P.125 `06_scaled_plot_big.html`
+* P.126 `07_scaled_plot_large.html`
+* P.129 `08_scaled_plot_sqrt_scale.html`
+* P.131 `09_time_scale.html`
 
 
 08
