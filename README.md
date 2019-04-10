@@ -82,7 +82,18 @@
 * P.131 `09_time_scale.html`
 
 
-08
+**08 Axes** [P.135-148]
+
+* `01_axes.html`
+* `02_axes_bottom.html`
+* `03_axes_clean.html`
+* `04_axes_y.html`
+* `05_axes_random.html`
+* `06_axes_no_labels.html`
+* `07_axes_format.html`
+* `08_time_axis.html`
+* `09_time_axis_prettier.html`
+
 
 09
 
