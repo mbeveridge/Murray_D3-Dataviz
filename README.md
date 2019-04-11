@@ -84,15 +84,15 @@
 
 **08 Axes** [P.135-148]
 
-* `01_axes.html`
-* `02_axes_bottom.html`
-* `03_axes_clean.html`
-* `04_axes_y.html`
-* `05_axes_random.html`
-* `06_axes_no_labels.html`
-* `07_axes_format.html`
-* `08_time_axis.html`
-* `09_time_axis_prettier.html`
+* P.137 `01_axes.html`
+* P.139 `02_axes_bottom.html`
+* P.141 `03_axes_clean.html`
+* P.143 `04_axes_y.html`
+* P.145 `05_axes_random.html`
+* P.145 `06_axes_no_labels.html`
+* P.146 `07_axes_format.html`
+* P.147 `08_time_axis.html`
+* P.147 `09_time_axis_prettier.html`
 
 
 09
