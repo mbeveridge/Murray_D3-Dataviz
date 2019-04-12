@@ -95,7 +95,38 @@
 * P.147 `09_time_axis_prettier.html`
 
 
-09
+**09 Updates, Transitions, and Motion** [P.149-194]
+
+01_bar_chart.html
+02_bar_chart_with_scales.html
+03_updates_all_data.html
+04_updates_all_data_fixed.html
+05_transition.html
+06_duration.html
+07_duration_slow.html
+08_duration_slow_labels_fixed.html
+09_ease_linear.html
+10_ease_circle.html
+11_ease_elastic.html
+12_ease_bounce.html
+13_delay_static.html
+14_delay_dynamic.html
+15_delay_dynamic_scaled.html
+16_delay_dynamic_scaled_fewer.html
+17_randomized_data.html
+18_dynamic_scale.html
+19_axes_static.html
+20_axes_dynamic.html
+21_on.html
+22_on_combo_transition.html
+23_chained_transitions.html
+24_clip-path.html
+25_adding_values.html
+26_removing_values.html
+27_data_join_with_key.html
+28_adding_and_removing.html
+29_dynamic_labels.html
+
 
 10
 
