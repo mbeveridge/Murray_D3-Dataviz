@@ -97,35 +97,35 @@
 
 **09 Updates, Transitions, and Motion** [P.149-194]
 
-* `01_bar_chart.html`
-* `02_bar_chart_with_scales.html`
-* `03_updates_all_data.html`
-* `04_updates_all_data_fixed.html`
-* `05_transition.html`
-* `06_duration.html`
-* `07_duration_slow.html`
-* `08_duration_slow_labels_fixed.html`
-* `09_ease_linear.html`
-* `10_ease_circle.html`
-* `11_ease_elastic.html`
-* `12_ease_bounce.html`
-* `13_delay_static.html`
-* `14_delay_dynamic.html`
-* `15_delay_dynamic_scaled.html`
-* `16_delay_dynamic_scaled_fewer.html`
-* `17_randomized_data.html`
-* `18_dynamic_scale.html`
-* `19_axes_static.html`
-* `20_axes_dynamic.html`
-* `21_on.html`
-* `22_on_combo_transition.html`
-* `23_chained_transitions.html`
-* `24_clip-path.html`
-* `25_adding_values.html`
-* `26_removing_values.html`
-* `27_data_join_with_key.html`
-* `28_adding_and_removing.html`
-* `29_dynamic_labels.html`
+* P.149 `01_bar_chart.html`
+* P.150 `02_bar_chart_with_scales.html`
+* P.156 `03_updates_all_data.html`
+* P.158 `04_updates_all_data_fixed.html`
+* P.159 `05_transition.html`
+* P.160 `06_duration.html`
+* P.160 `07_duration_slow.html`
+* P.161 `08_duration_slow_labels_fixed.html`
+* P.161 `09_ease_linear.html`
+* P.162 `10_ease_circle.html`
+* P.162 `11_ease_elastic.html`
+* P.162 `12_ease_bounce.html`
+* P.162 `13_delay_static.html`
+* P.163 `14_delay_dynamic.html`
+* P.163 `15_delay_dynamic_scaled.html`
+* P.163 `16_delay_dynamic_scaled_fewer.html`
+* P.164 `17_randomized_data.html`
+* P.168 `18_dynamic_scale.html`
+* P.169 `19_axes_static.html`
+* P.171 `20_axes_dynamic.html`
+* P.171 `21_on.html`
+* P.173 `22_on_combo_transition.html`
+* P.174 `23_chained_transitions.html`
+* P.176 `24_clip-path.html`
+* P.181 `25_adding_values.html`
+* P.184 `26_removing_values.html`
+* P.189 `27_data_join_with_key.html`
+* P.193 `28_adding_and_removing.html`
+* P.193 `29_dynamic_labels.html`
 
 
 10
