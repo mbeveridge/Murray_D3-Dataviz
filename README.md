@@ -159,6 +159,17 @@
 * P.193 `28_adding_and_removing.html`
 * P.193 `29_dynamic_labels.html`
 
+-----RECAP
+
+* `data()` binds data to elements, but also returns the *update selection*.
+* The update selection can contain *enter* and *exit* selections, which can be accessed via `enter()` and `exit()`.
+* `merge()` is typically used to, well, merge the enter and update selections, to make it easy to apply any changes to both of those selections at the same time.
+* When there are *more values than elements*, an enter selection will reference the placeholder, not-yet-existing elements.
+* When there are *more elements than values*, an exit selection will reference the ele‐ ments without data.
+* Data joins determine how values are matched with elements.
+* By default, data joins are performed by index, meaning in order of appearance.
+* For more control over data joins, you can specify a key function.
+
 
 10
 
