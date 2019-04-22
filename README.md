@@ -171,7 +171,20 @@
 * For more control over data joins, you can specify a key function.
 
 
-10
+10 **Interactivity** [P.195-215]
+
+-----Binding Event Listeners
+
+-----Introducing Behaviors
+
+-----Grouping SVG Elements
+
+-----Tooltips
+
+-----Consideration for Touch Devices
+
+-----Moving Forward
+
 
 11
 
