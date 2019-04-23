@@ -177,13 +177,34 @@
 
 -----Introducing Behaviors
 
+* P.196 `01_start.html`
+* P.197 `02_click.html`
+* P.197 `03_hover.html`
+* P.199 `04_mouseover.html`
+* P.199 `05_mouseout.html`
+* P.201 `06_smoother.html`
+
 -----Grouping SVG Elements
 
+* P.204 `07_sort.html` ...*"call a new function of our own creation, `sortBars()`"*
+* P.205 `08_sort_hover.html`
+* P.207 `09_resort.html`
+* P.207 `10_delay.html`
+
 -----Tooltips
+
+* P.208 `11_browser_tooltip.html`
+* P.209 `12_browser_tooltip_text.html`
+* P.210 `13_svg_tooltip.html`
+* P.212 `14_div_tooltip.html`
 
 -----Consideration for Touch Devices
 
 -----Moving Forward
+
+*"You now have all the basics of D3 under your cap. You are a pro at binding data, generating and styling elements based on that data, implementing scales and drawing axes, and modifying your creations with new data, animated transitions, and interactivity. What more could you ask for?*
+
+*How about expanding your visual possibilities with paths, layouts, and geomaps? The next few chapters will dive into these slightly more advanced topics"*
 
 
 11
