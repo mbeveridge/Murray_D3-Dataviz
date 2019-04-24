@@ -207,14 +207,14 @@
 *How about expanding your visual possibilities with paths, layouts, and geomaps?"*
 
 
-11
+11 **Using Paths** [P.217-229]
 
-12
+12 **Selections** [P.231-257]
 
-13
+13 **Layouts** [P.259-279]
 
-14
+14 **Geomapping** [P.281-322]
 
-15
+15 **Exporting** [P.323-329]
 
 16
