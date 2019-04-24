@@ -187,15 +187,15 @@
 -----Grouping SVG Elements
 
 * P.204 `07_sort.html` ...*"call a new function of our own creation, `sortBars()`"*
-* P.205 `08_sort_hover.html`
+* P.205 `08_sort_hover.html` ...*"a good argument for keeping hover effects in CSS". ("Another way to prevent transition interruptions is to name your transitions")*
 * P.207 `09_resort.html`
 * P.207 `10_delay.html`
 
 -----Tooltips
 
-* P.208 `11_browser_tooltip.html`
+* P.208 `11_browser_tooltip.html` ...*"These should be your first stop. A quick-and-dirty, functional but not pretty option,"*
 * P.209 `12_browser_tooltip_text.html`
-* P.210 `13_svg_tooltip.html`
+* P.210 `13_svg_tooltip.html` ...*"For more visual control over your tooltips, code them as SVG elements"*
 * P.212 `14_div_tooltip.html`
 
 -----Consideration for Touch Devices
@@ -204,7 +204,7 @@
 
 *"You now have all the basics of D3 under your cap. You are a pro at binding data, generating and styling elements based on that data, implementing scales and drawing axes, and modifying your creations with new data, animated transitions, and interactivity. What more could you ask for?*
 
-*How about expanding your visual possibilities with paths, layouts, and geomaps? The next few chapters will dive into these slightly more advanced topics"*
+*How about expanding your visual possibilities with paths, layouts, and geomaps?"*
 
 
 11
