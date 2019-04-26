@@ -209,6 +209,14 @@
 
 11 **Using Paths** [P.217-229]
 
+* P.223 `01_line_chart.html`
+* P.224 `02_line_chart_axes.html`
+* P.225 `03_line_chart_missing.html`
+* P.226 `04_line_chart_adjusted.html`
+* P.227 `05_line_chart_labeled.html`
+* P.229 `06_area_chart.html`
+
+
 12 **Selections** [P.231-257]
 
 13 **Layouts** [P.259-279]
