@@ -25,7 +25,7 @@
 
 **02 Introducing D3** [P.7-16] ...[*P.11-16 Other libraries*]
 
-**03 Technology Fundamentals** [P.17-62] ...[**P37-42 Objects & Arrays : to read**]
+**03 Technology Fundamentals** [P.17-62] ...[*P37-42 Objects & Arrays*]
 
 **04 Setup** [P.63-66] ...[*P.65 Set up a web server (type in Terminal) : `python -m http.server 8888 &.`*]
 
