@@ -25,7 +25,7 @@
 
 **02 Introducing D3** [P.7-16] ...[*P.11-16 Other libraries*]
 
-**03 Technology Fundamentals** [P.17-62] ...[*P37-42 Objects & Arrays*]
+**03 Technology Fundamentals** [P.17-62] ...[*P37-41 Objects & Arrays : ..."Hard brackets `[]` indicate an array"; "We use curly brackets `{}` to indicate an object"; "The only difference [of JSON] is that our property names are now surrounded by double quotation marks `""`, making them string values"*] [*P45 : "Code-based data visualization would not be possible without arrays and the mighty `for` loop"*]
 
 **04 Setup** [P.63-66] ...[*P.65 Set up a web server (type in Terminal) : `python -m http.server 8888 &.`*]
 
