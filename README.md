@@ -224,12 +224,23 @@
 
 **12 Selections** [P.231-257]
 
-* P. `01_enter_merge_exit.html`
-* P. `02_paragraphs.html`
-* P. `03_slider.html`
-* P. `04_radios.html`
-* P. `05_combinations.html`
-* P. `06_each.html`
+-----A Closer Look at Selections
+
+-----Getting More Specific
+
+-----Storing Selections
+
+-----Enter, Merge and Exit
+
+* P.239 `01_enter_merge_exit.html`
+
+-----Filtering Selections Based on Data
+
+* P.250 `02_paragraphs.html`
+* P.251 `03_slider.html`
+* P.251 `04_radios.html`
+* P.253 `05_combinations.html`
+* P.255 `06_each.html`
 
 
 **13 Layouts** [P.259-279]
