@@ -29,7 +29,7 @@
 
 **04 Setup** [P.63-66] ...[*P.65 Set up a web server (type in Terminal) : `python -m http.server 8888 &.`*]
 
-**05 Data** [P.67-87] ...[**P73-78 Loading CSV & JSON : to read** ...but Errata says this method doesn't work for v5 D3]
+**05 Data** [P.67-87] ...[*P73-78 Loading CSV & JSON* ...**BUT** *[Errata](https://www.oreilly.com/catalog/errata.csp?isbn=0636920037316) and [GitHub](https://github.com/alignedleft/d3-book/issues/30) say this method doesn't work for D3 v5*]
 
 -----Generating Page Elements
 
