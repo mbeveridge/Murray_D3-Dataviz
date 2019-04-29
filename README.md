@@ -171,7 +171,7 @@
 * For more control over data joins, you can specify a key function.
 
 
-10 **Interactivity** [P.195-215]
+**10 Interactivity** [P.195-215]
 
 -----Binding Event Listeners
 
@@ -207,7 +207,7 @@
 *How about expanding your visual possibilities with paths, layouts, and geomaps?"*
 
 
-11 **Using Paths** [P.217-229]
+**11 Using Paths** [P.217-229]
 
 -----Line Charts
 
@@ -222,12 +222,20 @@
 * P.229 `06_area_chart.html`
 
 
-12 **Selections** [P.231-257]
+**12 Selections** [P.231-257]
 
-13 **Layouts** [P.259-279]
+* P. `01_enter_merge_exit.html`
+* P. `02_paragraphs.html`
+* P. `03_slider.html`
+* P. `04_radios.html`
+* P. `05_combinations.html`
+* P. `06_each.html`
 
-14 **Geomapping** [P.281-322]
 
-15 **Exporting** [P.323-329]
+**13 Layouts** [P.259-279]
+
+**14 Geomapping** [P.281-322]
+
+**15 Exporting** [P.323-329]
 
 16
