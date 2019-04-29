@@ -54,7 +54,7 @@
 * P.92 `02_drawing_divs_height.html`
 * P.93 `03_drawing_divs_spaced.html`
 
------The power of `data()`
+-----The Power of `data()`
 
 * P.93 `04_power_of_data.html`
 * P.93 `05_power_of_data_more_points.html`
@@ -92,26 +92,67 @@
 
 **07 Scales** [P.117-134]
 
+-----Apples and Pixels
+
+-----Domains and Ranges
+
+-----Normalization
+
+-----Creating a Scale
+
 * P.119 `01_scale_test.html`
+
+-----Scaling the Scatterplot
+
 * P.123 `02_scaled_plot.html`
+
+-----Refining the Plot
+
 * P.123 `03_scaled_plot_inverted.html`
 * P.125 `04_scaled_plot_padding.html`
 * P.125 `05_scaled_plot_radii.html`
 * P.125 `06_scaled_plot_big.html`
 * P.126 `07_scaled_plot_large.html`
+
+-----Other Methods
+
+-----Other Scales
+
 * P.129 `08_scaled_plot_sqrt_scale.html`
 * P.131 `09_time_scale.html`
 
 
 **08 Axes** [P.135-148]
 
+-----Introducing Axes
+
+-----Setting Up an Axis
+
 * P.137 `01_axes.html`
+
+-----Positioning Axes
+
 * P.139 `02_axes_bottom.html`
+
+-----Check for Ticks
+
 * P.141 `03_axes_clean.html`
+
+-----Y Not?
+
 * P.143 `04_axes_y.html`
+
+-----Final Touches
+
 * P.145 `05_axes_random.html`
 * P.145 `06_axes_no_labels.html`
+
+-----Formatting Tick Labels
+
 * P.146 `07_axes_format.html`
+
+-----Time-Based Axes
+
 * P.147 `08_time_axis.html`
 * P.147 `09_time_axis_prettier.html`
 
