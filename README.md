@@ -23,13 +23,24 @@
 
 **01 Introduction** [P.1-6]
 
-**02 Introducing D3** [P.7-16] ...[*P.11-16 Other libraries*]
+**02 Introducing D3** [P.7-16]
 
-**03 Technology Fundamentals** [P.17-62] ...[*P37-41 Objects & Arrays : ..."Hard brackets `[]` indicate an array"; "We use curly brackets `{}` to indicate an object"; "The only difference [of JSON] is that our property names are now surrounded by double quotation marks `""`, making them string values"*] [*P45 : "Code-based data visualization would not be possible without arrays and the mighty `for` loop"*]
+[*P.11-16 : Other libraries*]
 
-**04 Setup** [P.63-66] ...[*P.65 Set up a web server (type in Terminal) : `python -m http.server 8888 &.`*]
 
-**05 Data** [P.67-87] ...[*P73-78 Loading CSV & JSON* ...**BUT** *[Errata](https://www.oreilly.com/catalog/errata.csp?isbn=0636920037316) and [GitHub](https://github.com/alignedleft/d3-book/issues/30) say this method doesn't work for D3 v5*]
+**03 Technology Fundamentals** [P.17-62]
+
+[*P.37-41 : Objects & Arrays : ..."Hard brackets `[]` indicate an array"; "We use curly brackets `{}` to indicate an object"; "The only difference [of JSON] is that our property names are now surrounded by double quotation marks `""`, making them string values"*]
+
+[*P.45 : "Code-based data visualization would not be possible without arrays and the mighty `for` loop"*]
+
+
+**04 Setup** [P.63-66]
+
+[*P.65 : Set up a web server (type in Terminal) : `python -m http.server 8888 &.`*]
+
+
+**05 Data** [P.67-87]
 
 -----Generating Page Elements
 
@@ -37,6 +48,8 @@
 * P.70 `02_new_element.html` ...*step through code*
 
 -----Binding Data
+
+[*P.73-78 : Loading CSV & JSON* ...**BUT** *[Errata](https://www.oreilly.com/catalog/errata.csp?isbn=0636920037316) and [GitHub](https://github.com/alignedleft/d3-book/issues/30) say this method doesn't work for D3 v5*]
 
 * P.74 `03_csv_loading_example.html`
 * P.79 `04_creating_paragraphs.html` ...*step through code*
@@ -272,6 +285,8 @@
 -----Storing Selections
 
 -----Enter, Merge and Exit
+
+*P.239 : "The data join is D3's essential feature"*
 
 * P.239 `01_enter_merge_exit.html`
 
