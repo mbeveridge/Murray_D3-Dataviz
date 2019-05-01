@@ -288,7 +288,7 @@
 
 *P.239 : "The data join is D3's essential feature"*
 
-* P.239 `01_enter_merge_exit.html`
+* P.239 `01_enter_merge_exit.html` ...*step through code*
 
 -----Filtering Selections Based on Data
 
