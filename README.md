@@ -301,6 +301,8 @@
 
 **13 Layouts** [P.259-279]
 
+*P.259 : 'The list of D3 layouts includes: Chord; Cluster;* ***Force****; Pack; Partition;* ***Pie****;* ***Stack****;* *Tree; Treemap'*
+
 -----Pie Layout
 
 * P.260 `01_pie.html`
@@ -315,8 +317,8 @@
 
 -----Force Layout
 
-* P. `07_force.html`
-* P. `08_force_draggable.html`
+* P.273 `07_force.html`
+* P.278 `08_force_draggable.html`
 
 
 **14 Geomapping** [P.281-322]
