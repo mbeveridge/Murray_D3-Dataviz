@@ -303,15 +303,15 @@
 
 -----Pie Layout
 
-* P. `01_pie.html`
-* P. `02_doughnut.html`
+* P.260 `01_pie.html`
+* P.264 `02_doughnut.html`
 
 -----Stack Layout
 
-* P. `03_stacked_bar.html`
-* P. `04_stacked_bar_reordered.html`
-* P. `05_stacked_bar_anchored.html`
-* P. `06_stacked_area.html`
+* P.264 `03_stacked_bar.html`
+* P.268 `04_stacked_bar_reordered.html`
+* P.269 `05_stacked_bar_anchored.html`
+* P.270 `06_stacked_area.html`
 
 -----Force Layout
 
