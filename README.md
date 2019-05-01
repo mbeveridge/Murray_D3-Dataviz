@@ -301,6 +301,24 @@
 
 **13 Layouts** [P.259-279]
 
+-----Pie Layout
+
+* P. `01_pie.html`
+* P. `02_doughnut.html`
+
+-----Stack Layout
+
+* P. `03_stacked_bar.html`
+* P. `04_stacked_bar_reordered.html`
+* P. `05_stacked_bar_anchored.html`
+* P. `06_stacked_area.html`
+
+-----Force Layout
+
+* P. `07_force.html`
+* P. `08_force_draggable.html`
+
+
 **14 Geomapping** [P.281-322]
 
 **15 Exporting** [P.323-329]
