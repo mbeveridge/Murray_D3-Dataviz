@@ -331,41 +331,46 @@
 
 -----Paths
 
+* P.284 `01_paths.html`
+
 -----Projections
+
+* P.285 `02_projection.html`
+* P.286 `03_scaled.html`
+* P.287 `04_fill.html`
 
 -----Choropleth
 
+* P.288 `05_choropleth.html`
+
 -----Adding Points
+
+* P.293 `06_points.html`
+* P.294 `07_points_sized.html`
 
 -----Panning
 
+* P.299 `08_pan.html`
+* P.299 `09_pan_transition.html`
+* P.299 `10_pan_draggable.html`
+* P.302 `11_pan_draggable_bgrect.html`
+
 -----Zooming
+
+* P.303 `12_zoom.html`
+* P.307 `13_zoom_pan_buttons_fixed.html`
+* P.307 `14_zoom_with_buttons.html`
+* P.309 `15_extents.html`
+* P.310 `16_combo_zoom_pan.html`
 
 -----Value Labels
 
+* P.312 `17_labels.html`
+
 -----Acquiring and Preparing Raw Geodata
 
-* P. `01_paths.html`
-* P. `02_projection.html`
-* P. `03_scaled.html`
-* P. `04_fill.html`
-* P. `05_choropleth.html`
-* P. `06_points.html`
-* P. `07_points_sized.html`
-* P. `08_pan.html`
-* P. `09_pan_transition.html`
-* P. `10_pan_draggable.html`
-* P. `11_pan_draggable_bgrect.html`
-* P. `12_zoom.html`
-* P. `13_zoom_pan_buttons_fixed.html`
-* P. `14_zoom_with_buttons.html`
-* P. `15_extents.html`
-* P. `16_combo_zoom_pan.html`
-* P. `17_labels.html`
-* P. `18_oceans.html`
-* P. `19_mercator.html`
-
-
+* P.321 `18_oceans.html`
+* P.322 `19_mercator.html`
 
 
 **15 Exporting** [P.323-329]
