@@ -313,7 +313,7 @@
 * P.264 `03_stacked_bar.html`
 * P.268 `04_stacked_bar_reordered.html`
 * P.269 `05_stacked_bar_anchored.html`
-* P.270 `06_stacked_area.html`
+* P.270 `06_stacked_area.html` ...*using `ev_sales_data.csv`*
 
 -----Force Layout
 
