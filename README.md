@@ -317,11 +317,34 @@
 
 -----Force Layout
 
-* P.273 `07_force.html`
+* P.273 `07_force.html` ...[**P.274-279 TO READ**]
 * P.278 `08_force_draggable.html`
 
 
 **14 Geomapping** [P.281-322]
+
+-----JSON, Meet GeoJSON
+
+*P.282 : "GeoJSON is a lon/lat world"*
+
+*P.283 : "[Get Lat+Lon](http://teczno.com/squares/) is a great resource by Mike Migurski for double-checking coordinate values. Keep it open in a browser tab whenever you’re working on geomaps. You will reference it often"*
+
+-----Paths
+
+-----Projections
+
+-----Choropleth
+
+-----Adding Points
+
+-----Panning
+
+-----Zooming
+
+-----Value Labels
+
+-----Acquiring and Preparing Raw Geodata
+
 
 **15 Exporting** [P.323-329]
 
