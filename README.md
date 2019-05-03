@@ -329,7 +329,7 @@
 
 *P.283 : "[Get Lat+Lon](http://teczno.com/squares/) is a great resource by Mike Migurski for double-checking coordinate values. Keep it open in a browser tab whenever you’re working on geomaps. You will reference it often"*
 
------Paths
+-----Paths ...[*using `us-states.json`*]
 
 * P.284 `01_paths.html`
 
@@ -339,18 +339,20 @@
 * P.286 `03_scaled.html`
 * P.287 `04_fill.html`
 
------Choropleth
+-----Choropleth ...[*using `us-ag-productivity.csv`*]
 
 * P.288 `05_choropleth.html`
 
------Adding Points
+-----Adding Points ...[*using `us-cities.csv`*]
 
-* P.293 `06_points.html`
-* P.294 `07_points_sized.html`
+*P.292 : "my favorite [batch geocoder](http://www.gpsvisualizer.com/geocoder/)"*
+
+* P.293 `06_points.html` ...[**P.288-290 TO READ**]
+* P.294 `07_points_sized.html` ...*population data linked to circle size*
 
 -----Panning
 
-* P.299 `08_pan.html`
+* P.296 `08_pan.html`
 * P.299 `09_pan_transition.html`
 * P.299 `10_pan_draggable.html`
 * P.302 `11_pan_draggable_bgrect.html`
