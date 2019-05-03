@@ -352,7 +352,7 @@
 
 -----Panning
 
-* P.296 `08_pan.html`
+* P.296 `08_pan.html` ...[**P.297-299 TO READ**]
 * P.299 `09_pan_transition.html`
 * P.299 `10_pan_draggable.html`
 * P.302 `11_pan_draggable_bgrect.html`
