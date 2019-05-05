@@ -371,6 +371,12 @@
 
 -----Acquiring and Preparing Raw Geodata
 
+*P.313 : "The essential steps for acquiring and preparing geodata for use with D3 are:* *1. Find shapefiles;
+2. Choose a resolution;
+3. Simplify the shapes;
+4. Convert to GeoJSON;
+5. Choose a projection"*
+
 * P.321 `18_oceans.html`
 * P.322 `19_mercator.html`
 
