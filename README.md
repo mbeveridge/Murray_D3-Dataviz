@@ -13,9 +13,9 @@
 
 | Directory or file (in root) | Explanation |
 | --- | --- |
-| d3/ | [Chapter4] Latest version (5.9.2) of d3.js, from [https://d3js.org](https://d3js.org) |
-|d3-book-2.0.3/ | [Chapter1] Latest version (2.0.3) of sample files, from [the GitHub releases page](https://github.com/alignedleft/d3-book/releases) |
-|d3.js | [Chapter4] Library actually being used. Copy of a file in `d3/` |
+| d3/ | [Chapter4] Latest version of d3.js, from [https://d3js.org](https://d3js.org). ("v5.9.2 Copyright 2019") |
+|d3-book-2.0.3/ | [Chapter1] Latest version (2.0.3) of sample files, from [GitHub releases page](https://github.com/alignedleft/d3-book/releases). (Includes d3.js "Version 4.5.0. Copyright 2017") |
+|d3.js | [Chapter4] Library actually being used. Copy of a file in `d3/`. ("v5.9.2 Copyright 2019") |
 | index.html | [Chapter4] Empty document |
 | README.md | This document |
 
@@ -418,9 +418,20 @@
 
 * P.351 `10_refine_styling.html`
 
------Provide Context
+-----Provide Context ...[**P.352-356 TO READ**]
 
 * P.355 `11_context.html`
 
 -----Dancing Versus Gardening
+
+
+### APPENDICES
+
+* A. Case Studies ...[P.359-403]
+* B. What’s New in 4.0 ...[P.405-409]
+* C. Further Study ...[P.411-416]
+* D. Sharing Your Code ...[P.417-428]
+* E. Quick Reference ...[P.429-437] [*Selections; Data; Transitions; Scales; Axes; Interactivity; Numbers, Dates, and Times; Other Useful JavaScript*]
+
+
 
