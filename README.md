@@ -21,26 +21,26 @@
 
 ---
 
-**01 Introduction** [P.1-6]
+## 01 Introduction *[P.1-6]*
 
-**02 Introducing D3** [P.7-16]
+## 02 Introducing D3 *[P.7-16]*
 
 [*P.11-16 : Other libraries*]
 
 
-**03 Technology Fundamentals** [P.17-62]
+## 03 Technology Fundamentals *[P.17-62]*
 
 [*P.37-41 : Objects & Arrays : ..."Hard brackets `[]` indicate an array"; "We use curly brackets `{}` to indicate an object"; "The only difference [of JSON] is that our property names are now surrounded by double quotation marks `""`, making them string values"*]
 
 [*P.45 : "Code-based data visualization would not be possible without arrays and the mighty `for` loop"*]
 
 
-**04 Setup** [P.63-66]
+## 04 Setup *[P.63-66]*
 
 [*P.65 : Set up a web server (type in Terminal) : `python -m http.server 8888 &.`*]
 
 
-**05 Data** [P.67-87]
+## 05 Data *[P.67-87]*
 
 -----Generating Page Elements
 
@@ -59,7 +59,7 @@
 * P.87 `08_creating_paragraphs_with_style_functions.html`
 
 
-**06 Drawing with Data** [P.89-115]
+## 06 Drawing with Data *[P.89-115]*
 
 -----Drawing divs
 
@@ -103,7 +103,7 @@
 -----Next Steps
 
 
-**07 Scales** [P.117-134]
+## 07 Scales *[P.117-134]*
 
 -----Apples and Pixels
 
@@ -135,7 +135,7 @@
 * P.131 `09_time_scale.html`
 
 
-**08 Axes** [P.135-148]
+## 08 Axes *[P.135-148]*
 
 -----Introducing Axes
 
@@ -170,7 +170,7 @@
 * P.147 `09_time_axis_prettier.html`
 
 
-**09 Updates, Transitions, and Motion** [P.149-194]
+## 09 Updates, Transitions, and Motion *[P.149-194]*
 
 -----Modernizing the Bar Chart
 
@@ -225,7 +225,7 @@
 * For more control over data joins, you can specify a key function.
 
 
-**10 Interactivity** [P.195-215]
+## 10 Interactivity *[P.195-215]*
 
 -----Binding Event Listeners
 
@@ -261,7 +261,7 @@
 *How about expanding your visual possibilities with paths, layouts, and geomaps?"*
 
 
-**11 Using Paths** [P.217-229]
+## 11 Using Paths *[P.217-229]*
 
 -----Line Charts
 
@@ -276,7 +276,7 @@
 * P.229 `06_area_chart.html`
 
 
-**12 Selections** [P.231-257]
+## 12 Selections *[P.231-257]*
 
 -----A Closer Look at Selections
 
@@ -299,7 +299,7 @@
 * P.255 `06_each.html`
 
 
-**13 Layouts** [P.259-279]
+## 13 Layouts *[P.259-279]*
 
 *P.259 : 'The list of D3 layouts includes: Chord; Cluster;* ***Force****; Pack; Partition;* ***Pie****;* ***Stack****;* *Tree; Treemap'*
 
@@ -321,7 +321,7 @@
 * P.278 `08_force_draggable.html`
 
 
-**14 Geomapping** [P.281-322]
+## 14 Geomapping *[P.281-322]*
 
 -----JSON, Meet GeoJSON
 
@@ -383,7 +383,7 @@
 * P.322 `19_mercator.html`
 
 
-**15 Exporting** [P.323-329]
+## 15 Exporting *[P.323-329]*
 
 -----Bitmaps
 
@@ -392,7 +392,7 @@
 -----SVG
 
 
-**16 Project Walk-Through** [P.331-357]
+## 16 Project Walk-Through *[P.331-357]*
 
 -----Prepare the Data
 
@@ -425,7 +425,7 @@
 -----Dancing Versus Gardening
 
 
-### APPENDICES
+## APPENDICES
 
 * A. Case Studies ...[P.359-403]
 * B. What’s New in 4.0 ...[P.405-409]
