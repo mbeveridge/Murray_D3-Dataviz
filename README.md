@@ -392,4 +392,35 @@
 -----SVG
 
 
-16
+**16 Project Walk-Through** [P.331-357]
+
+-----Prepare the Data
+
+-----Load and Parse the Data
+
+* P.334 `01_initial_chart.html`
+
+-----Render the Initial View
+
+* P.339 `02_color_by_type.html`
+* P.340 `03_sorted_by_type.html`
+
+-----Add Interactivity
+
+* P.341 `04_types_only.html`
+* P.342 `05_click_transition.html`
+* P.343 `06_update_axis.html`
+* P.345 `07_hide_reveal_vehicles.html`
+* P.346 `08_zoom_to_vehicle.html`
+* P.349 `09_back_button.html`
+
+-----Refine Styling
+
+* P.351 `10_refine_styling.html`
+
+-----Provide Context
+
+* P.355 `11_context.html`
+
+-----Dancing Versus Gardening
+
