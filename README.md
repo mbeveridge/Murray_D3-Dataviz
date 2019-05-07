@@ -427,7 +427,7 @@
 
 ## APPENDICES
 
-* A. Case Studies ...[P.359-403]
+* A. Case Studies ...[P.359-403] [*Jan Willem Tulp; Anna Powell-Smith; Lewis Lehe & Victor Powell; Lena Groeger; Susie Lu; Zan Armstrong; Nadieh Beremer & Shirley Wu*]
 * B. What’s New in 4.0 ...[P.405-409]
 * C. Further Study ...[P.411-416]
 * D. Sharing Your Code ...[P.417-428]
