@@ -427,11 +427,11 @@
 
 ## APPENDICES
 
-* A. Case Studies ...[P.359-403] [*Jan Willem Tulp; Anna Powell-Smith; Lewis Lehe & Victor Powell; Lena Groeger; Susie Lu; Zan Armstrong; Nadieh Beremer & Shirley Wu*]
+* A. Case Studies ...[P.359-403] [*Jan Willem Tulp; Anna Powell-Smith; Lewis Lehe & Victor Powell; Lena Groeger; Susie Lu; Zan Armstrong; Nadieh Beremer & Shirley Wu*] [**TO READ**]
 * B. What’s New in 4.0 ...[P.405-409]
 * C. Further Study ...[P.411-416]
-* D. Sharing Your Code ...[P.417-428]
-* E. Quick Reference ...[P.429-437] [*Selections; Data; Transitions; Scales; Axes; Interactivity; Numbers, Dates, and Times; Other Useful JavaScript*]
+* D. Sharing Your Code ...[P.417-428] [**TO READ**]
+* E. Quick Reference ...[P.429-437] [*Selections; Data; Transitions; Scales; Axes; Interactivity; Numbers, Dates, and Times; Other Useful JavaScript*] [**TO READ**]
 
 
 
